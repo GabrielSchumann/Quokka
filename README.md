@@ -1,1 +1,1 @@
-Nossa primeira aula de RWD
+Primeira aula de RWD
